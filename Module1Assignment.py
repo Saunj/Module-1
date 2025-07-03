@@ -5,11 +5,11 @@ import pandas as pd
 workers = []
 def generate_workers(num_workers = 400):
 
-     first_names = ["John", "Jane", "Michael", "Emily", "David", "Sarah", 
-                  "Robert", "Jennifer", "William", "Lisa", "James", "Jessica"]
+     first_names = ["John", "Jane", "Michael", "Emily","Abdul" "David", "Sarah", 
+                  "Robert", "Fatu", "William", "Lisa", "Joe-Henry", "Aminata"]
      
      last_names = ["Smith", "Johnson", "Williams", "Brown", "Jones", 
-                "Miller", "Davis", "Garcia", "Rodriguez", "Wilson"]
+                "Koroma", "Davis", "Kamara", "Vandy", "Sesay", "Sunders"]
 
      genders = ["Male", "Female"]
 
